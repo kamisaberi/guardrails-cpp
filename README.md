@@ -1,7 +1,3 @@
-Here is a complete, publication-ready **`README.md`** for **`guardrails-cpp`**. It features the system architecture, threat model, sub-millisecond latency benchmark tables, build instructions, and modern C++ usage examples.
-
-***
-
 # `guardrails-cpp`
 
 > **Sub-Millisecond Native C++20 & CUDA Security Guardrail Engine for Production LLM Serving**
